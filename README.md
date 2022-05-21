@@ -21,4 +21,4 @@ I used fuison 360 to create both the base and lampshade. The files can be found 
 - [Base](https://a360.co/3EMOnpk)
 - [Lampshade](https://a360.co/3MrfjNY)
 
-The lampshade was 3D printed using [Form Lab's](https://formlabs.com) white resin. 
+The lampshade was 3D printed using [Form Lab's](https://formlabs.com) white resin. The lamp shade thickness is 0.05 inches with the wave grooves being about 50% thicker.
